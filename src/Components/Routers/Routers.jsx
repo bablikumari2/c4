@@ -10,20 +10,13 @@ export const Routers = () => {
     return (<>
         <Navbar />
         <Routes>
-            <Route path="/" element={<Home />} />
+            <Route  path="/" element={<Home />} />
+            <Route exact path="/loginsignup" element = {<LoginSignUp/>} />
+            <Route exact path="/meetup" element = {<AddMeetup/>} />
+            <Route exact path="/events" element = {<Event />} />
+            <Route path="*" element = {<NotFound/>} />
             {/* Create other routes here: loginsignup, meetup, addmeetup and 404 */}
             {/* meetup route should be dynamic */}
-            <Route path="/loginsignup " element={<LoginSignUp />} />
-            <Route path="/meetup" element={< AddMeetup />} />
-            <Route path="/meetup/:id" element={< AddMeetup />} />
-            <Route path="*" element={<NotFound />} />
-            
         </Routes>
     </>);
 }
-
-// / for home page
-// /loginsignup for login and signup
-// /meetup/:id for showing meetup details page with ID
-// /addmeetup for adding/creating meetups
-// * for 404 page. (using * as path will show 404 page automatically)

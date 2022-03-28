@@ -1,0 +1,14 @@
+.navbar{
+    height:40px ;
+   justify-content: space-between;
+    background-color: black;
+  }
+  .navbarHome{
+    color: white;
+    margin-right: 350px;
+    
+  }
+  .navbarLoginSignUp{
+    color: white;
+    font-weight: bolder;
+  }
