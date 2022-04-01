@@ -26,6 +26,58 @@
       "interests": [],
       "image": "https://images.pexels.com/photos/2952834/pexels-photo-2952834.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "id": 2
+    },
+    {
+      "name": "babli",
+      "password": "45678",
+      "location": "",
+      "interests": [],
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fphotos%2Fpopcorn-and-clapperboard-picture-id1191001701%3Fk%3D20%26m%3D1191001701%26s%3D612x612%26w%3D0%26h%3DuDszifNzvgeY5QrPwWvocFOUCw8ugViuw-U8LCJ1wu8%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fmovies&tbnid=HeI6oLfAZBL1kM&vet=12ahUKEwi52bWz2Oj2AhULXWwGHbdiDr8QMygAegUIARDeAQ..i&docid=lOwrAvPtWRQUFM&w=612&h=408&q=movie%20image&ved=2ahUKEwi52bWz2Oj2AhULXWwGHbdiDr8QMygAegUIARDeAQ",
+      "movies": "on",
+      "id": 3
+    },
+    {
+      "name": "bab babe",
+      "password": "123456",
+      "location": "mumbai",
+      "interests": [],
+      "image": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "food": "on",
+      "movies": "on",
+      "culture": "on",
+      "id": 4
+    },
+    {
+      "name": "bb123",
+      "password": "78945",
+      "location": "kolkata",
+      "interests": [],
+      "image": "no",
+      "subscribed": [],
+      "drama": "on",
+      "id": 5
+    },
+    {
+      "name": "Babli Kumari",
+      "password": "12345",
+      "location": "kolkata",
+      "interests": [
+        "food"
+      ],
+      "image": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "subscribed": [],
+      "id": 6
+    },
+    {
+      "name": "Babli Kumari",
+      "password": "12345",
+      "location": "kolkata",
+      "interests": [
+        "food"
+      ],
+      "image": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "subscribed": [],
+      "id": 7
     }
   ],
   "meetups": [
@@ -38,6 +90,56 @@
       "theme": "technology",
       "description": "Random Event",
       "image": "https://images.unsplash.com/photo"
+    },
+    {
+      "title": "babli",
+      "location": "bangalore",
+      "date": "121212",
+      "time": "12144",
+      "theme": "food",
+      "description": "ghhb",
+      "image": "no",
+      "id": 2
+    },
+    {
+      "title": "babli",
+      "location": "bangalore",
+      "date": "121212",
+      "time": "12144",
+      "theme": "food",
+      "description": "ghhb",
+      "image": "no",
+      "id": 3
+    },
+    {
+      "title": "babli",
+      "location": "bangalore",
+      "date": "121212",
+      "time": "12144",
+      "theme": "food",
+      "description": "ghhb",
+      "image": "no",
+      "id": 4
+    },
+    {
+      "title": "party",
+      "location": "kolkata",
+      "date": "14214",
+      "time": "545",
+      "theme": "movies",
+      "description": "good",
+      "image": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "id": 5
+    },
+    {
+      "title": "party",
+      "location": "kolkata",
+      "date": "14214",
+      "time": "545",
+      "theme": "movies",
+      "description": "good",
+      "image": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "id": 6
     }
   ]
 }
